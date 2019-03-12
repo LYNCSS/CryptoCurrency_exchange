@@ -1,0 +1,11 @@
+Metadata-Version: 1.1
+Name: hitbtc
+Version: 1.0.4
+Summary: HitBTC Websocket API Client
+Home-page: UNKNOWN
+Author: Nils Diefenbach
+Author-email: 23okrs20+gitlab@mykolab.com
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3 :: Only

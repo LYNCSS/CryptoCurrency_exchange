@@ -1,0 +1,11 @@
+setup.py
+hitbtc/__init__.py
+hitbtc/client.py
+hitbtc/connector.py
+hitbtc/utils.py
+hitbtc/wss.py
+hitbtc.egg-info/PKG-INFO
+hitbtc.egg-info/SOURCES.txt
+hitbtc.egg-info/dependency_links.txt
+hitbtc.egg-info/requires.txt
+hitbtc.egg-info/top_level.txt
